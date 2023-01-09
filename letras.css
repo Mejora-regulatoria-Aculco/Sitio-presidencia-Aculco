@@ -1,0 +1,19 @@
+@font-face{
+
+font-family:P;
+src: url(arial.TTF);
+
+
+}
+
+h3{
+  font-family:P;
+  font-size: 100%;
+    color: black;
+    margin: auto;
+
+}
+.body{
+    margin: 2px;
+}
+

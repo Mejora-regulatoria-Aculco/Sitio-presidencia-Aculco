@@ -1,0 +1,13 @@
+body {
+    
+     min-height: 100vh;
+	margin: 10px;
+    min-height: 100vh;
+   background-image: url(logo%202.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+   background-position: center center;
+    
+   
+}
